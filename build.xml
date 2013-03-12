@@ -39,6 +39,7 @@
 			deprecation="on"
 			debug="yes"
 			includeJavaRuntime="yes"
+			includeantruntime="false"
 		>
             <classpath refid="project.class.path"/>
 		</javac>
